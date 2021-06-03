@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties joyfull letter to the City of London, read in the Honourable House of Commons, concerning his subjects of England; with his gracious letter, and earnest desires, to the House of Peers, concerning his subjects of Scotland; and their answer and proceedings thereupon: as also, their propositions to the Scottish nation, touching the desires of His Majesty; and a narrative of the proceedings of the treaty between the King and the commissioners, and their mutuall compliance, and happy agreement for peace; being joyfull tydings for all loyall subjects within his Majesties realms and dominions. Likewise, the declaration and propositions of His Majesties loyall and true hearted subjects of the English nation, to the representatives of this Kingdom, in the name of themselves and the whole nation, concerning the reign &amp; government of their dread soveraign. Perused, and examined, by the originall papers, and ordered to be printed for generall satisfaction of the whole Kingdom. Signed by many thousands of His Majesties loyall and faithfull subjects.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78819</idno><idno type="EEBO-CITATION">99864620</idno>
+  <idno type="VID">162277</idno>
+  <idno type="EEBO-PROQUEST">2240902267</idno>
+  
+            <idno type="STC">Wing C2354</idno>
+            <idno type="STC">Thomason E465_16</idno>
+            <idno type="STC">ESTC R205188</idno>
+            <idno type="PROQUEST">99864620</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864620e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties joyfull letter to the City of London, read in the Honourable House of Commons, concerning his subjects of England; with his gracious letter, and earnest desires, to the House of Peers, concerning his subjects of Scotland; and their answer and proceedings thereupon: as also, their propositions to the Scottish nation, touching the desires of His Majesty; and a narrative of the proceedings of the treaty between the King and the commissioners, and their mutuall compliance, and happy agreement for peace; being joyfull tydings for all loyall subjects within his Majesties realms and dominions. Likewise, the declaration and propositions of His Majesties loyall and true hearted subjects of the English nation, to the representatives of this Kingdom, in the name of themselves and the whole nation, concerning the reign &amp; government of their dread soveraign. Perused, and examined, by the originall papers, and ordered to be printed for generall satisfaction of the whole Kingdom. Signed by many thousands of His Majesties loyall and faithfull subjects.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. W. and are to be sold near Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162277:1"/>
+            <p>THE KINGS MAJESTIES joyfull Letter to the City of LONDON, READ IN THE Honourable House of Commons, concerning His Subjests of <hi>England;</hi> With his gracious Letter, and earnest Desires, to the House of Peers, concerning his Subjects of <hi>Scotland;</hi> And their Answer and proceedings thereupon: As also, their Propositions to the Scottish Nation, touching the D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sires of His Majesty; And a Narrative of the proceedings of the Treaty between the King and the Commissio<g ref="char:EOLhyphen"/>ners, and their mutuall compliance, and happy agreement for Peace; be<g ref="char:EOLhyphen"/>ing joyfull tydings for all loyall Subjects within his Majesties Realms and Dominions. Likewise, the Declaration and Propositions of His Ma<g ref="char:EOLhyphen"/>jesties loyall and true hearted Subjects of the <hi>English</hi> Nation, to the Re<g ref="char:EOLhyphen"/>presentatives of this Kingdom, in the name of themselves and the whole Nation, concerning the Reign &amp; Government of their dread Soveraign.</p>
+            <p>
+               <hi>Perused, and examined, by the originall Papers, and ordered to be printed for generall satisfaction of the whole Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Signed by many Thousands of His Majesties loyall and faithfull Subjects.</hi>
+            </p>
+            <figure>
+               <figDesc>Royal seal</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> R. W. <hi>and are to be sold near Temple-Barre,</hi> 164<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162277:2"/>
+            <pb n="1" facs="tcp:162277:2"/>
+            <head>The Declaration and Propositions of his Majesties loyall and Faithfull Subjects within the Realme of <hi>England,</hi> in the name of themselves, and the whole Nation, to the Representatives of this Kingdom, concerning the Reign and Government of the Kings most excellent Majesty.</head>
+            <p>WHere as your Honours in pursuance of the duty of your high place and calling, have solemnly undertaken and entered into various engagements before God and the World, for to endea<g ref="char:EOLhyphen"/>vour the restoring of this Nation unto her just Free<g ref="char:EOLhyphen"/>domes, Rights and Happinesse.</p>
+            <p>And whereas your Petitioners looking into the true state of things doe finde, That notwithstanding any thing whatsoever, that hath been, as yet, done, or at<g ref="char:EOLhyphen"/>tempted by this or any precedent Parliament, in the behalfe of this Nation: and after so much Englsh bloud spilt under that pretence; The Nation is still suffered to remain (as it hath done almost these six hundred years) in Captivity to the Right, Title, Exercise, and disgrace<g ref="char:EOLhyphen"/>full
+<pb n="2" facs="tcp:162277:3"/>Banges of the <hi>Normane</hi> (pretended) Conquest over us, as is manifest by the tenour of that Title by which (with the consenting sufferage of our Parliaments, Laws and Lawyers, yet un-repeal'd) the Crown of <hi>England</hi> is still enjoyed, and by a great part both of the matter &amp; forme of those Lawes, by which we are still governed.</p>
+            <p>Now forasmuch as untill the Bands of this National Captivity be dissolved, all else that is done or endeavo<g ref="char:EOLhyphen"/>ured, (how gloriously soever pretending) being all ter<g ref="char:EOLhyphen"/>minated in the abatement of the Royal Prerogative, and is 1 not onely of lower concernment, as to the service of this Nation, but 2 also very iregular and insufficient for atteining the Ends proposed; the first, for that is un<g ref="char:EOLhyphen"/>deniably less contrary unto Honour and true Freedom in a Nation, for to be under arbitrary Government, le<g ref="char:EOLhyphen"/>gitimately instituted (as were the <hi>Jews</hi> under their a nointed Kings, and the <hi>Romans</hi> under their <hi>Dictators</hi>) then under the most moderated Sovereignty that springs from and is the exercise of a Conquest; the latter, for that while this Kingdom (or the relation betwixt our Kings and people) continues grounded on the Con<g ref="char:EOLhyphen"/>quest; the Sovereignty cannot legally nor (consequent<g ref="char:EOLhyphen"/>ly) validly be so moderated, but that the Supream Laws will be still (not <hi>Salus Populi,</hi> as hath been lately, and foundly talked in this Kingdom, but) the Honour and will of the Prince, as sufficiently appears (to omit other Testimonies) from the fate and issue of some Acts of Parliament in K. <hi>Edward</hi> the 3 time, which fell to the ground, and were nullified by the Kings bare Authori<g ref="char:EOLhyphen"/>ty joyned with the consent of the Lords, for being pre<g ref="char:EOLhyphen"/>judiciall to the Royall Honour and Prerogative, as which are and will be the Fundamentall and Supream
+<pb facs="tcp:162277:3"/>in this Kingdom, while it continues grounded as above<g ref="char:EOLhyphen"/>said. And for as much as the said Title of Conquest and depravation of our Laws, are not only Destructive (while they continue in force over us) to the Honour, Freedom, and happinesse of our Nation, but also con<g ref="char:EOLhyphen"/>trary to the fundamentall Constitution of this Kingdom as being usurpantly &amp; perfidiously introduced; for that [according to the unanimous testimony of Records] the <hi>Norman</hi> Duke was by this Nation admitted to Crown, in respect of this claim by Saint <hi>Edwar'ds</hi> Legacy ioyt'd with his Victory over his Competitor <hi>Harold,</hi> and upon his Oath to preserve our Laws and Liberties, and not o<g ref="char:EOLhyphen"/>therwise; insomuch that the Title of <hi>Englands</hi> Conque<g ref="char:EOLhyphen"/>rour may as justly be affixed to the Names of <hi>Henry</hi> the Fourth, <hi>Edward</hi> the Fourth, and <hi>Henry</hi> the Seventh (who all made their claimes by Victories over their Competi<g ref="char:EOLhyphen"/>tors, as to the name of the said Duke.</p>
+            <p>And for that also these Abuses are not only thus pre<g ref="char:EOLhyphen"/>jvditiall and injurious to our Nation, but also very De<g ref="char:EOLhyphen"/>rogatory to the Honour of our Kings and to their interest in the Peoples affections, as founding their Right and Rule on an usurpant originall, and one the Ruines of the Honour and Freedom of this Nation, and thereby cast<g ref="char:EOLhyphen"/>ing the seeds of irreconcilliable hatred betwixt them; Insomuch, that there is none in this Kingdom can stand up in the maintenance of these Injuries, without decla<g ref="char:EOLhyphen"/>ring themselves open Enemies, and the most fl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gitious Traitors both to their King &amp; Countrey, that ever were.</p>
+            <p>And for as much as it now pleased Almighty God to put that power and opportunity into your hands for the Redresse of these Evils, which was never heretofore af<g ref="char:EOLhyphen"/>forded to your predecessors, and that ye are now upon a Treaty with his <hi>Majesty,</hi> for new forming the Fabrick of this State.</p>
+            <pb n="4" facs="tcp:162277:4"/>
+            <p>May it therefore please this Honourable House, now at length (before it is too late) to take such Order, That our Kings may no longer reign over us by the Right or Pretence of Conquest, thereby trampling under foot our chiefe Rights and Happinesse, But that the Title of the Normane Bloud unto the Crown of England, may be grounded (as of right it ought to be) on the Legacie of St. Edward, joyned with the Nations, Admission gran<g ref="char:EOLhyphen"/>ted (and to be still granted) upon the Coronation Oath taken, and not otherwise: And that the Right and Title of the said (pretended) Conquest, being thus abolished out of this Kingdom, the disgracefull and needlesse Badges thereof still remaining among us, (particularly in the matter and Language of our Lawes) may, in con<g ref="char:EOLhyphen"/>venient time, be likewise redrest, whereby the English Nation may now at length (after so many ages unjust sufferance) be restored from out of the Quality, Title, and Vesture, of a Captive, under a forreign bloud, unto her just Honour, Freedom, and happinesse, and that so (through your worthy endeavours, in this putting an end to your Countries long Bondage) there may be laid amongst us a reall and lasting Foundation of glory to God on high, of Peace in this Kingdom, and of good will betwixt Prince and People, which otherwise is altoge<g ref="char:EOLhyphen"/>ther impossible to be done.</p>
+            <p>
+               <hi>And your Petitioners, with the whole Nation, shall pray, &amp;c.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head> His Majesties Letter to his Right Trusty and most loyall Sub<g ref="char:EOLhyphen"/>ject within the City of London.</head>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>TRusty and wel beloved, we greet you well: We have lately received a Petition from <hi>Arthur Knight</hi> our Servant, and <hi>Haberdasher;</hi> wherein he expresseth; That 2.
+<pb n="5" facs="tcp:162277:4"/>of his Sons are (for robbery) indicted, and convicted, &amp; are present prisoners in New-gate expecting the sentence of death at the next Sessions, and Goale Delivery there. Now (although we shall not in any kind interrupt the course of Justice to passe on them, or any offenders yet) out of compassion to our Servant, who hopes they will be for the future, reclaimed, We have thought fit to pray you, to use your best indeavours to procure for them a Reprieve from execution: And (if it may be consonant to the due proceedings in such cases) that bayle may be taken for their Inlargement, thereby to ease our Servant of the great charge he is at, so as they may be answerable for their fact, untill such time as (in our clemency and Justice) we may judge whether it may be fit to give them our pardon: And this we do the rather, because we hear they have been reprieved already. So recommen<g ref="char:EOLhyphen"/>ding this businesse to your care and Judgement, we bid you farewell.</p>
+                  <closer>
+                     <dateline>
+                        <hi>From our Court at Newport </hi>
+                        <date>
+                           <hi>this</hi> 20. <hi>of September,</hi> 1648.</date>
+                     </dateline>
+                     <salute>
+                        <hi>To our Trusty and wel beloved</hi> Richard Brown <hi>Esquire, one of the Sheriffes (Elect) of our City of London.</hi>
+                     </salute>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Lords had a letter read from the King. That where<g ref="char:EOLhyphen"/>as His Majesty doth understand that the Lord <hi>Carnagy,</hi> and Sir <hi>Alexander Gibson</hi> (who is Lord Clerke) are not in a capacity to Treat His Majesty doth therefore desire that Sir <hi>James Carmichell</hi> (whom the Houses have ap<g ref="char:EOLhyphen"/>proved of) may have a passe sent for him to come to treat for affaires of <hi>Scotland,</hi> and that Mr. <hi>Parsons</hi> may have a passe, and be speedily dispatched. Their Lord<g ref="char:EOLhyphen"/>ships ordered to communicate it to the Commons.</p>
+            <p>
+               <hi>The Parliaments proceedings on the said Letter.</hi> viz.</p>
+            <p>On Thursday last a letter passed to be sent into Scot<g ref="char:EOLhyphen"/>land
+<pb n="6" facs="tcp:162277:5"/>for Sir James Carmichell to have liberty to come to the King, to treat of the affaires of that Kingdom, and a passe for him, and his Horses and Servants. Also Pro<g ref="char:EOLhyphen"/>pofitions to the Scots, that if they will send the names of others whom they shall appoint (if they were not inga<g ref="char:EOLhyphen"/>ged against England) the Parliament will send them passes.</p>
+            <p>Also a Passe for M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Parsons to carry the said letters.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Exceeding joyfull Newes from the Treaty, to all his Majesties loyall, and faithfull Subjects within the Realm of <hi>England,</hi> and his gracious Declaration thereupon.</head>
+                  <opener>
+                     <salute>Right Honoured,</salute>
+                  </opener>
+                  <p>
+                     <hi>THe Kings Majesty, and the Commissioners of both Houses, are like to come to a happy agreement, and (in all probability) will suddenly compose the distracted differences of this distressed Nation; His Majesty hath already passed the Bill, for recalling all Declara<g ref="char:EOLhyphen"/>tions, &amp;c. published in the Name, and by his Majesties Authority a<g ref="char:EOLhyphen"/>gainst both Houses of Parliament. On Tuesday last, the King and the Commissioners met about</hi> 9. <hi>of the Clock in the morning, and sate til<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 5. <hi>in the Afternoon, their results was, touching the Discipline of the Church, and after some progresse made therein, for a speedy composure of all differences, and setling of Church Government, His Majesty seemed not to insist much upon the matter, but some parti<g ref="char:EOLhyphen"/>cular expressions therein; so that there is great hopes, that our present distractions will be suddenly brought to a period, and the peace of the Church and Kingdom firmly united and s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tled, there being great probability, of an agreement in all things, betwixt the King and his people, in rela<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion to the Treaty; without which his Majesty declares nothing to be of force. Wednesday being the Fast day, the King and the Commissioners, had no meeting in the Treaty Chamber. On Thursday the King and the Commissioners met again, and had seve<g ref="char:EOLhyphen"/>rall scruples, being at the Table, His Majesty declared That nothing should be wanting on His part, for the setling a safe and wel-groun<g ref="char:EOLhyphen"/>ded Peace, and therefore disired; that all scruples might be cleared, and the great distractions and oppressions of all His liege people removed.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Newport <date>30. Septemb, 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
